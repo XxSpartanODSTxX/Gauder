@@ -1,0 +1,39 @@
+E:\Kooperative Forschung\Gauder Akustik\Automatisierung\GauderApp\bin\Debug\GauderApp.exe.config
+E:\Kooperative Forschung\Gauder Akustik\Automatisierung\GauderApp\bin\Debug\GauderApp.exe
+E:\Kooperative Forschung\Gauder Akustik\Automatisierung\GauderApp\bin\Debug\GauderApp.pdb
+E:\Kooperative Forschung\Gauder Akustik\Automatisierung\GauderApp\obj\Debug\GauderApp.csprojAssemblyReference.cache
+E:\Kooperative Forschung\Gauder Akustik\Automatisierung\GauderApp\obj\Debug\GauderApp.FormDarc1000.resources
+E:\Kooperative Forschung\Gauder Akustik\Automatisierung\GauderApp\obj\Debug\GauderApp.Properties.Resources.resources
+E:\Kooperative Forschung\Gauder Akustik\Automatisierung\GauderApp\obj\Debug\GauderApp.csproj.GenerateResource.cache
+E:\Kooperative Forschung\Gauder Akustik\Automatisierung\GauderApp\obj\Debug\GauderApp.csproj.CoreCompileInputs.cache
+E:\Kooperative Forschung\Gauder Akustik\Automatisierung\GauderApp\obj\Debug\GauderApp.exe
+E:\Kooperative Forschung\Gauder Akustik\Automatisierung\GauderApp\obj\Debug\GauderApp.pdb
+E:\Kooperative Forschung\Gauder Akustik\Automatisierung\GauderApp\bin\Debug\Newtonsoft.Json.dll
+E:\Kooperative Forschung\Gauder Akustik\Automatisierung\GauderApp\bin\Debug\Newtonsoft.Json.xml
+E:\Kooperative Forschung\Gauder Akustik\Automatisierung\GauderApp\obj\Debug\GauderApp.csproj.CopyComplete
+C:\Users\kdRupp\source\repos\GauderApp\bin\Debug\GauderApp.exe.config
+C:\Users\kdRupp\source\repos\GauderApp\bin\Debug\GauderApp.exe
+C:\Users\kdRupp\source\repos\GauderApp\bin\Debug\GauderApp.pdb
+C:\Users\kdRupp\source\repos\GauderApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kdRupp\source\repos\GauderApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kdRupp\source\repos\GauderApp\obj\Debug\GauderApp.csprojAssemblyReference.cache
+C:\Users\kdRupp\source\repos\GauderApp\obj\Debug\GauderApp.FormDarc1000.resources
+C:\Users\kdRupp\source\repos\GauderApp\obj\Debug\GauderApp.Properties.Resources.resources
+C:\Users\kdRupp\source\repos\GauderApp\obj\Debug\GauderApp.csproj.GenerateResource.cache
+C:\Users\kdRupp\source\repos\GauderApp\obj\Debug\GauderApp.csproj.CoreCompileInputs.cache
+C:\Users\kdRupp\source\repos\GauderApp\obj\Debug\GauderApp.csproj.CopyComplete
+C:\Users\kdRupp\source\repos\GauderApp\obj\Debug\GauderApp.exe
+C:\Users\kdRupp\source\repos\GauderApp\obj\Debug\GauderApp.pdb
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\GauderApp\bin\Debug\GauderApp.exe.config
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\GauderApp\bin\Debug\GauderApp.exe
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\GauderApp\bin\Debug\GauderApp.pdb
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\GauderApp\bin\Debug\Newtonsoft.Json.dll
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\GauderApp\bin\Debug\Newtonsoft.Json.xml
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\GauderApp\obj\Debug\GauderApp.FormDarc1000.resources
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\GauderApp\obj\Debug\GauderApp.Properties.Resources.resources
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\GauderApp\obj\Debug\GauderApp.csproj.GenerateResource.cache
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\GauderApp\obj\Debug\GauderApp.csproj.CoreCompileInputs.cache
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\GauderApp\obj\Debug\GauderApp.csproj.CopyComplete
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\GauderApp\obj\Debug\GauderApp.exe
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\GauderApp\obj\Debug\GauderApp.pdb
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\GauderApp\obj\Debug\GauderApp.csprojAssemblyReference.cache

@@ -1,0 +1,99 @@
+﻿  Motion_Interpolator.cpp
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\CollisionAvoidance.h(163,19): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\CollisionAvoidance.h(164,19): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\CollisionAvoidance.h(165,19): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\CollisionAvoidance.h(138,13): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\CollisionAvoidance.h(141,13): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\CollisionAvoidance.h(144,31): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\kinematik.h(16,14): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\kinematik.h(19,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\kinematik.h(22,23): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\kinematik.h(26,20): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\kinematik.h(30,14): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\kinematik.h(31,34): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\kinematik.h(54,18): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\kinematik.h(57,18): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\kinematik.h(98,33): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\kinematik.h(99,33): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\kinematik.h(114,33): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\kinematik.h(115,33): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Sensor1_Sim.h(159,31): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\Motion_Interpolator.ino(53,71): warning C4244: 'return': conversión de '_Rep' a 'long'; posible pérdida de datos
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\Motion_Interpolator.ino(63,10): fatal error C1083: No se puede abrir el archivo incluir: 'Sensor_Sim.h': No such file or directory
+  JSON.cpp
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\src\JSON.cpp(64,7): error C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  JSONValue.cpp
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\src\JSONValue.cpp(66,44): error C3861: 'wcsncasecmp': no se encontró el identificador
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\src\JSONValue.cpp(66,117): error C3861: 'wcsncasecmp': no se encontró el identificador
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\src\JSONValue.cpp(68,16): error C3861: 'wcsncasecmp': no se encontró el identificador
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\src\JSONValue.cpp(74,43): error C3861: 'wcsncasecmp': no se encontró el identificador
+  axis.cpp
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\axis.cpp(12,25): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\axis.cpp(13,25): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\axis.cpp(14,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\axis.cpp(16,30): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\axis.cpp(18,14): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\axis.cpp(19,14): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\axis.cpp(21,29): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\axis.cpp(24,32): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\axis.cpp(25,32): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\axis.cpp(39,29): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\axis.cpp(40,29): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\axis.cpp(44,29): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\axis.cpp(45,29): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\axis.cpp(48,20): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\axis.cpp(50,34): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\axis.cpp(52,18): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\axis.cpp(53,18): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\axis.cpp(55,33): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\axis.cpp(58,37): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\axis.cpp(59,37): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\axis.cpp(76,45): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\axis.cpp(77,42): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\axis.cpp(78,54): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\axis.cpp(101,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\axis.cpp(113,18): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\axis.cpp(114,11): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\axis.cpp(115,11): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\axis.cpp(116,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\axis.cpp(118,47): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  motion.cpp
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\mainTargets.h(7,39): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\mainTargets.h(42,1): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\motion.cpp(58,42): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\motion.cpp(94,24): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\motion.cpp(222,16): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\motion.cpp(223,16): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\motion.cpp(278,94): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\motion.cpp(362,23): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\motion.cpp(363,23): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\motion.cpp(385,57): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\motion.cpp(413,57): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\motion.cpp(456,55): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\motion.cpp(646,10): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\motion.cpp(733,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\motion.cpp(740,22): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\motion.cpp(743,22): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\motion.cpp(765,25): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\motion.cpp(766,25): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\motion.cpp(802,7): warning C4101: 'vset': variable local sin referencia
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\motion.cpp(880,27): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\motion.cpp(885,27): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\motion.cpp(929,18): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\motion.cpp(959,40): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\motion.cpp(986,29): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\motion.cpp(991,29): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\motion.cpp(1083,18): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\motion.cpp(1132,37): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\motion.cpp(1191,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\motion.cpp(1195,16): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\motion.cpp(1197,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\motion.cpp(1267,52): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\motion.cpp(1293,17): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\motion.cpp(1297,16): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator\motion.cpp(1303,17): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  Generando código...

@@ -1,0 +1,6 @@
+Motion Started!
+0.05 
+MC Switched 'ON' version
+Set Zero
+Termino De poner 0
+Termino el setup de interpolation

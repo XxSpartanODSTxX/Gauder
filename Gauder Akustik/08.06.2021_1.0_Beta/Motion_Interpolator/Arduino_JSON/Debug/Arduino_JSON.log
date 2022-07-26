@@ -1,0 +1,137 @@
+﻿  pch.cpp
+  Arduino_JSON.cpp
+  JSON.cpp
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(30,34): error C2504: "Printable": Basisklasse undefiniert
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(39,10): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(39,23): error C2143: Syntaxfehler: Es fehlt "," vor "&"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(39,10): error C2535: "JSONVar::JSONVar(int)": Memberfunktion bereits definiert oder deklariert
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(34): message : Siehe Deklaration von "JSONVar::JSONVar"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(44,11): error C2460: "JSONVar::nullptr_t": Verwendet gerade definiertes "JSONVar"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(30): message : Siehe Deklaration von "JSONVar"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(47,31): error C2061: Syntaxfehler: Bezeichner "Print"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(65,30): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(65,30): error C2143: Syntaxfehler: Es fehlt "," vor "&"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(65,34): error C2535: "void JSONVar::operator =(int)": Memberfunktion bereits definiert oder deklariert
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(60): message : Siehe Deklaration von "JSONVar::operator ="
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(66,27): error C2327: "JSONVar::nullptr_t": Ist kein Typname, nicht statisch und kein Enumerator
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(66,27): error C2061: Syntaxfehler: Bezeichner "nullptr_t"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(66,28): error C2805: Binärer Operator "=" hat zu wenig Parameter
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(69,28): error C2327: "JSONVar::nullptr_t": Ist kein Typname, nicht statisch und kein Enumerator
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(69,28): error C2061: Syntaxfehler: Bezeichner "nullptr_t"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(69,35): error C2805: Binärer Operator "==" hat zu wenig Parameter
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(72,34): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(72,34): error C2143: Syntaxfehler: Es fehlt "," vor "&"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(73,32): error C2535: "JSONVar JSONVar::operator [](const int)": Memberfunktion bereits definiert oder deklariert
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(72): message : Siehe Deklaration von "JSONVar::operator []"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(79,35): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(79,35): error C2143: Syntaxfehler: Es fehlt "," vor "&"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(82,36): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(82,36): error C2143: Syntaxfehler: Es fehlt "," vor "&"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(83,26): error C3646: "stringify": Unbekannter Überschreibungsspezifizierer
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(83,27): error C2059: Syntaxfehler: "const"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(83,48): error C2238: Unerwartete(s) Token vor ";"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(84,24): error C3646: "typeof_": Unbekannter Überschreibungsspezifizierer
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(84,25): error C2059: Syntaxfehler: "const"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(84,46): error C2238: Unerwartete(s) Token vor ";"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSON.h(33,29): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSON.h(33,29): error C2143: Syntaxfehler: Es fehlt "," vor "&"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSON.h(35,19): error C3646: "stringify": Unbekannter Überschreibungsspezifizierer
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSON.h(35,19): error C2059: Syntaxfehler: "("
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSON.h(35,41): error C2238: Unerwartete(s) Token vor ";"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSON.h(37,16): error C3646: "typeof_": Unbekannter Überschreibungsspezifizierer
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSON.h(37,16): error C2059: Syntaxfehler: "("
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSON.h(37,38): error C2238: Unerwartete(s) Token vor ";"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSON.cpp(81,38): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSON.cpp(81,38): error C2143: Syntaxfehler: Es fehlt "," vor "&"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSON.cpp(83,25): error C2065: "s": nichtdeklarierter Bezeichner
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSON.cpp(86,19): error C2039: "stringify" ist kein Member von "JSONClass".
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSON.h(27): message : Siehe Deklaration von "JSONClass"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSON.cpp(86,28): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSON.cpp(86,28): error C2146: Syntaxfehler: Fehlendes ";" vor Bezeichner "stringify"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSON.cpp(87,1): error C2143: Syntaxfehler: Es fehlt ";" vor "{"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSON.cpp(87,1): error C2447: "{": Funktionsheader fehlt - Parameterliste im alten Stil?
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSON.cpp(91,19): error C2039: "typeof_" ist kein Member von "JSONClass".
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSON.h(27): message : Siehe Deklaration von "JSONClass"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSON.cpp(91,25): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSON.cpp(91,1): error C2086: "int String": Neudefinition
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSON.cpp(86): message : Siehe Deklaration von "String"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSON.cpp(91,25): error C2146: Syntaxfehler: Fehlendes ";" vor Bezeichner "typeof_"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSON.cpp(92,1): error C2143: Syntaxfehler: Es fehlt ";" vor "{"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSON.cpp(92,1): error C2447: "{": Funktionsheader fehlt - Parameterliste im alten Stil?
+  JSONVar.cpp
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(30,34): error C2504: "Printable": Basisklasse undefiniert
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(39,10): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(39,23): error C2143: Syntaxfehler: Es fehlt "," vor "&"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(39,10): error C2535: "JSONVar::JSONVar(int)": Memberfunktion bereits definiert oder deklariert
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(34): message : Siehe Deklaration von "JSONVar::JSONVar"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(47,31): error C2061: Syntaxfehler: Bezeichner "Print"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(65,30): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(65,30): error C2143: Syntaxfehler: Es fehlt "," vor "&"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(65,34): error C2535: "void JSONVar::operator =(int)": Memberfunktion bereits definiert oder deklariert
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(60): message : Siehe Deklaration von "JSONVar::operator ="
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(72,34): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(72,34): error C2143: Syntaxfehler: Es fehlt "," vor "&"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(73,32): error C2535: "JSONVar JSONVar::operator [](const int)": Memberfunktion bereits definiert oder deklariert
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(72): message : Siehe Deklaration von "JSONVar::operator []"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(79,35): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(79,35): error C2143: Syntaxfehler: Es fehlt "," vor "&"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(82,36): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(82,36): error C2143: Syntaxfehler: Es fehlt "," vor "&"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(83,26): error C3646: "stringify": Unbekannter Überschreibungsspezifizierer
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(83,27): error C2059: Syntaxfehler: "const"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(83,48): error C2238: Unerwartete(s) Token vor ";"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(84,24): error C3646: "typeof_": Unbekannter Überschreibungsspezifizierer
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(84,25): error C2059: Syntaxfehler: "const"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(84,46): error C2238: Unerwartete(s) Token vor ";"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(67,30): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(67,30): error C2143: Syntaxfehler: Es fehlt "," vor "&"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(67,36): error C2084: Funktion "JSONVar::JSONVar(int)" hat bereits einen Funktionsrumpf
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(37): message : Siehe vorherige Definition von "{ctor}"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(70,11): error C2065: "s": nichtdeklarierter Bezeichner
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(116,25): error C2065: "Print": nichtdeklarierter Bezeichner
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(116,32): error C2065: "p": nichtdeklarierter Bezeichner
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(116,33): error C2761: "size_t JSONVar::printTo(void) const": Die erneute Deklaration des Members ist unzulässig.
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(116,35): error C2143: Syntaxfehler: Es fehlt ";" vor "const"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(117,1): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(117,1): error C2059: Syntaxfehler: "{"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(117,1): error C2143: Syntaxfehler: Es fehlt ";" vor "{"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(117,1): error C2447: "{": Funktionsheader fehlt - Parameterliste im alten Stil?
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(148,55): error C2065: "NAN": nichtdeklarierter Bezeichner
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(225,37): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(225,37): error C2143: Syntaxfehler: Es fehlt "," vor "&"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(226,1): error C2084: Funktion "void JSONVar::operator =(int)" hat bereits einen Funktionsrumpf
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(200): message : Siehe vorherige Definition von "="
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(227,11): error C2065: "s": nichtdeklarierter Bezeichner
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(261,41): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(261,41): error C2143: Syntaxfehler: Es fehlt "," vor "&"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(263,18): error C2065: "key": nichtdeklarierter Bezeichner
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(267,1): error C2084: Funktion "JSONVar JSONVar::operator [](const int)" hat bereits einen Funktionsrumpf
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(261): message : Siehe vorherige Definition von "[]"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(290,25): error C2264: "JSONVar::operator []": Fehler in der Funktionsdefinition oder Funktionsdeklaration, Funktion nicht aufgerufen
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(290,25): error C2088: "[": Ungültig für class
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(305,12): error C3861: "strlen": Bezeichner wurde nicht gefunden.
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(321,20): error C2131: Ausdruck wurde nicht zu einer Konstanten ausgewertet.
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(321,20): message : Der Fehler wurde durch einen Lesezugriff auf eine Variable außerhalb ihrer Lebensdauer verursacht.
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(321,20): message : siehe Verwendung von "length"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(325,13): error C3863: Der Arraytyp "const char *[length]" kann nicht zugewiesen werden.
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(342,42): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(342,42): error C2143: Syntaxfehler: Es fehlt "," vor "&"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(344,25): error C2065: "key": nichtdeklarierter Bezeichner
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(354,36): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(354,36): error C2143: Syntaxfehler: Es fehlt "," vor "&"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(356,16): error C2065: "s": nichtdeklarierter Bezeichner
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(359,17): error C2039: "stringify" ist kein Member von "JSONVar".
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(30): message : Siehe Deklaration von "JSONVar"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(359,26): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(359,26): error C2146: Syntaxfehler: Fehlendes ";" vor Bezeichner "stringify"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(360,1): error C2143: Syntaxfehler: Es fehlt ";" vor "{"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(360,1): error C2447: "{": Funktionsheader fehlt - Parameterliste im alten Stil?
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(374,17): error C2039: "typeof_" ist kein Member von "JSONVar".
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.h(30): message : Siehe Deklaration von "JSONVar"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(374,24): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(374,1): error C2086: "int String": Neudefinition
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(359): message : Siehe Deklaration von "String"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(374,24): error C2146: Syntaxfehler: Fehlendes ";" vor Bezeichner "typeof_"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(375,1): error C2143: Syntaxfehler: Es fehlt ";" vor "{"
+E:\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Arduino_JSON\src\JSONVar.cpp(375,1): error C2447: "{": Funktionsheader fehlt - Parameterliste im alten Stil?
+  Code wird generiert...

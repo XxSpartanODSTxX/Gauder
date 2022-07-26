@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Quelldateien">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Headerdateien">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Ressourcendateien">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="SimulationFiles">
+      <UniqueIdentifier>{072678c6-095e-413e-ac53-59f2682b6200}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="axis.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionAvoidance.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Kinematik.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="motion.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="..\arduino.cpp">
+      <Filter>SimulationFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\JSON.cpp">
+      <Filter>SimulationFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\JSONValue.cpp">
+      <Filter>SimulationFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Motion_Interpolator.cpp">
+      <Filter>SimulationFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="..\SClient.cpp">
+      <Filter>SimulationFiles</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="axis.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionAvoidance.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="collisiondata.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="collisiondata_rle.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Kinematik.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="motion.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="..\arduino.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="..\sClient.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="mainTargets.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\JSON.h">
+      <Filter>SimulationFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\JSONValue.h">
+      <Filter>SimulationFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Sensor1_Sim.h">
+      <Filter>SimulationFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="..\GauderCan_Sim.h">
+      <Filter>SimulationFiles</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Motion_Interpolator.ino">
+      <Filter>Quelldateien</Filter>
+    </None>
+    <None Include="commands.ino">
+      <Filter>Quelldateien</Filter>
+    </None>
+    <None Include="preConditions.ino">
+      <Filter>Quelldateien</Filter>
+    </None>
+    <None Include="properties.ino">
+      <Filter>Quelldateien</Filter>
+    </None>
+    <None Include="readFromSerialAndIsValid.ino">
+      <Filter>Quelldateien</Filter>
+    </None>
+    <None Include="serialPrint.ino">
+      <Filter>Quelldateien</Filter>
+    </None>
+    <None Include="setupAndDriverVal.ino">
+      <Filter>Quelldateien</Filter>
+    </None>
+    <None Include="testCode.ino">
+      <Filter>Quelldateien</Filter>
+    </None>
+    <None Include="voidLoop.ino">
+      <Filter>Quelldateien</Filter>
+    </None>
+  </ItemGroup>
+</Project>

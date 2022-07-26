@@ -1,0 +1,5 @@
+G:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\obj\Release\PeakCANOpen_Lib.csprojResolveAssemblyReference.cache
+G:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\obj\Release\PeakCANOpen_Lib.CANOpenControl.resources
+G:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\obj\Release\PeakCANOpen_Lib.SettingsPanel.resources
+G:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\obj\Release\PeakCANOpen_Lib.csproj.GenerateResource.Cache
+G:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\obj\Release\PeakCANOpen_Lib.csproj.CoreCompileInputs.cache

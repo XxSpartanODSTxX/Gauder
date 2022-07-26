@@ -1,0 +1,19 @@
+﻿  arduino.cpp
+C:\Users\kdRupp\source\repos\Motion_Interpolator\arduino.cpp : warning C4117: Makroname "__cplusplus" ist reserviert, "#define" wird ignoriert
+C:\Users\kdRupp\source\repos\Motion_Interpolator\arduino.cpp : fatal error C1083: Datei (Include) kann nicht geöffnet werden: "C:\Users\kdRupp\source\repos\Motion_Interpolator\..\__vm\.Motion_Interpolator.vsarduino.h": No such file or directory
+  Motion_Interpolator.cpp
+C:\Users\kdRupp\source\repos\Motion_Interpolator\Motion_Interpolator.cpp : warning C4117: Makroname "__cplusplus" ist reserviert, "#define" wird ignoriert
+C:\Users\kdRupp\source\repos\Motion_Interpolator\Motion_Interpolator.cpp : fatal error C1083: Datei (Include) kann nicht geöffnet werden: "C:\Users\kdRupp\source\repos\Motion_Interpolator\..\__vm\.Motion_Interpolator.vsarduino.h": No such file or directory
+  axis.cpp
+C:\Users\kdRupp\source\repos\Motion_Interpolator\Motion_Interpolator\axis.cpp : warning C4117: Makroname "__cplusplus" ist reserviert, "#define" wird ignoriert
+C:\Users\kdRupp\source\repos\Motion_Interpolator\Motion_Interpolator\axis.cpp : fatal error C1083: Datei (Include) kann nicht geöffnet werden: "C:\Users\kdRupp\source\repos\Motion_Interpolator\..\__vm\.Motion_Interpolator.vsarduino.h": No such file or directory
+  CollisionAvoidance.cpp
+C:\Users\kdRupp\source\repos\Motion_Interpolator\Motion_Interpolator\CollisionAvoidance.cpp : warning C4117: Makroname "__cplusplus" ist reserviert, "#define" wird ignoriert
+C:\Users\kdRupp\source\repos\Motion_Interpolator\Motion_Interpolator\CollisionAvoidance.cpp : fatal error C1083: Datei (Include) kann nicht geöffnet werden: "C:\Users\kdRupp\source\repos\Motion_Interpolator\..\__vm\.Motion_Interpolator.vsarduino.h": No such file or directory
+  Kinematik.cpp
+C:\Users\kdRupp\source\repos\Motion_Interpolator\Motion_Interpolator\Kinematik.cpp : warning C4117: Makroname "__cplusplus" ist reserviert, "#define" wird ignoriert
+C:\Users\kdRupp\source\repos\Motion_Interpolator\Motion_Interpolator\Kinematik.cpp : fatal error C1083: Datei (Include) kann nicht geöffnet werden: "C:\Users\kdRupp\source\repos\Motion_Interpolator\..\__vm\.Motion_Interpolator.vsarduino.h": No such file or directory
+  motion.cpp
+C:\Users\kdRupp\source\repos\Motion_Interpolator\Motion_Interpolator\motion.cpp : warning C4117: Makroname "__cplusplus" ist reserviert, "#define" wird ignoriert
+C:\Users\kdRupp\source\repos\Motion_Interpolator\Motion_Interpolator\motion.cpp : fatal error C1083: Datei (Include) kann nicht geöffnet werden: "C:\Users\kdRupp\source\repos\Motion_Interpolator\..\__vm\.Motion_Interpolator.vsarduino.h": No such file or directory
+  Code wird generiert...

@@ -1,0 +1,26 @@
+﻿  Motion_Interpolator.cpp
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\CollisionAvoidance.h(163,19): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\CollisionAvoidance.h(164,19): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\CollisionAvoidance.h(165,19): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\CollisionAvoidance.h(138,13): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\CollisionAvoidance.h(141,13): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\CollisionAvoidance.h(144,31): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\kinematik.h(16,14): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\kinematik.h(19,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\kinematik.h(22,23): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\kinematik.h(26,20): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\kinematik.h(30,14): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\kinematik.h(31,34): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\kinematik.h(54,18): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\kinematik.h(57,18): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\kinematik.h(98,33): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\kinematik.h(99,33): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\kinematik.h(114,33): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\kinematik.h(115,33): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Sensor1_Sim.h(154,31): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator.ino(53,16): error C3083: 'chrono': el símbolo situado a la izquierda de '::' debe ser un tipo
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator.ino(53,24): error C3083: 'system_clock': el símbolo situado a la izquierda de '::' debe ser un tipo
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator.ino(53,38): error C2039: "now": no es un miembro de "std"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\map(25): message : vea la declaración de 'std'
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator.ino(53,41): error C3861: 'now': no se encontró el identificador
+C:\Users\lrmtz\Downloads\Motion_Interpolator_02.06.2021\Motion_Interpolator\Motion_Interpolator.ino(63,10): fatal error C1083: No se puede abrir el archivo incluir: 'Sensor_Sim.h': No such file or directory

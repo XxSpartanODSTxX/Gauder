@@ -1,0 +1,1019 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "Arithmetischer Überlauf: Wenn Sie den Operator \"+\" für einen 4-Bytewert verwenden und das Ergebnis in einen 8-Bytewert umwandeln, wandeln Sie den Wert in den breiteren Typ um, bevor Sie den Operator \"+\" verwenden, um einen Überlauf zu vermeiden (io.2)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.h"
+                },
+                "region": {
+                  "startLine": 148,
+                  "startColumn": 15,
+                  "endLine": 148,
+                  "endColumn": 39
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?norm@Collision_avoidanve@@QAEMPAM@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": []
+        },
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "Arithmetischer Überlauf: Wenn Sie den Operator \"*\" für einen 4-Bytewert verwenden und das Ergebnis in einen 8-Bytewert umwandeln, wandeln Sie den Wert in den breiteren Typ um, bevor Sie den Operator \"*\" verwenden, um einen Überlauf zu vermeiden (io.2)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.h"
+                },
+                "region": {
+                  "startLine": 148,
+                  "startColumn": 15,
+                  "endLine": 148,
+                  "endColumn": 25
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?norm@Collision_avoidanve@@QAEMPAM@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": []
+        },
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "Arithmetischer Überlauf: Wenn Sie den Operator \"+\" für einen 4-Bytewert verwenden und das Ergebnis in einen 8-Bytewert umwandeln, wandeln Sie den Wert in den breiteren Typ um, bevor Sie den Operator \"+\" verwenden, um einen Überlauf zu vermeiden (io.2)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.h"
+                },
+                "region": {
+                  "startLine": 152,
+                  "startColumn": 15,
+                  "endLine": 152,
+                  "endColumn": 24
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?norm@Collision_avoidanve@@SAMMM@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": []
+        },
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "Arithmetischer Überlauf: Wenn Sie den Operator \"*\" für einen 4-Bytewert verwenden und das Ergebnis in einen 8-Bytewert umwandeln, wandeln Sie den Wert in den breiteren Typ um, bevor Sie den Operator \"*\" verwenden, um einen Überlauf zu vermeiden (io.2)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.h"
+                },
+                "region": {
+                  "startLine": 152,
+                  "startColumn": 15,
+                  "endLine": 152,
+                  "endColumn": 18
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?norm@Collision_avoidanve@@SAMMM@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": []
+        },
+        {
+          "ruleId": "C6001",
+          "message": {
+            "text": "Nicht initialisierter Speicher \"delta2\" wird verwendet."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+                },
+                "region": {
+                  "startLine": 74,
+                  "startColumn": 20,
+                  "endLine": 74,
+                  "endColumn": 20
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?checkColl_RLE@Collision_avoidanve@@SA_NMM@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "index": 0,
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+                          },
+                          "region": {
+                            "startLine": 63,
+                            "startColumn": 7
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "index": 1,
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+                          },
+                          "region": {
+                            "startLine": 64,
+                            "startColumn": 8
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "index": 2,
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+                          },
+                          "region": {
+                            "startLine": 65,
+                            "startColumn": 8
+                          }
+                        },
+                        "message": {
+                          "text": "\"delta2\" ist nicht initialisiert"
+                        }
+                      },
+                      "kinds": [
+                        "Deklaration"
+                      ],
+                      "importance": "essential"
+                    },
+                    {
+                      "index": 3,
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+                          },
+                          "region": {
+                            "startLine": 66,
+                            "startColumn": 6
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "index": 4,
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+                          },
+                          "region": {
+                            "startLine": 67,
+                            "startColumn": 16
+                          }
+                        },
+                        "message": {
+                          "text": "In diese Verzweigung eintreten (Annahme: \"index<0||index>=901\")"
+                        }
+                      },
+                      "kinds": [
+                        "verzweigen"
+                      ],
+                      "importance": "important"
+                    },
+                    {
+                      "index": 5,
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+                          },
+                          "region": {
+                            "startLine": 68,
+                            "startColumn": 11
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "index": 6,
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+                          },
+                          "region": {
+                            "startLine": 74,
+                            "startColumn": 17
+                          }
+                        },
+                        "message": {
+                          "text": "Diese Verzweigung überspringen (Annahme: \"<Verzweigungsbedingung>\" ist false)"
+                        }
+                      },
+                      "kinds": [
+                        "verzweigen"
+                      ],
+                      "importance": "important"
+                    },
+                    {
+                      "index": 7,
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+                          },
+                          "region": {
+                            "startLine": 74,
+                            "startColumn": 20
+                          }
+                        },
+                        "message": {
+                          "text": "\"delta2\" wird verwendet, wurde jedoch möglicherweise nicht initialisiert."
+                        }
+                      },
+                      "kinds": [
+                        "Verwendung"
+                      ],
+                      "importance": "essential"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "suppressions": []
+        },
+        {
+          "ruleId": "C6001",
+          "message": {
+            "text": "Nicht initialisierter Speicher \"delta1\" wird verwendet."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+                },
+                "region": {
+                  "startLine": 74,
+                  "startColumn": 6,
+                  "endLine": 74,
+                  "endColumn": 6
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?checkColl_RLE@Collision_avoidanve@@SA_NMM@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "index": 0,
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+                          },
+                          "region": {
+                            "startLine": 63,
+                            "startColumn": 7
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "index": 1,
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+                          },
+                          "region": {
+                            "startLine": 64,
+                            "startColumn": 8
+                          }
+                        },
+                        "message": {
+                          "text": "\"delta1\" ist nicht initialisiert"
+                        }
+                      },
+                      "kinds": [
+                        "Deklaration"
+                      ],
+                      "importance": "essential"
+                    },
+                    {
+                      "index": 2,
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+                          },
+                          "region": {
+                            "startLine": 65,
+                            "startColumn": 8
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "index": 3,
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+                          },
+                          "region": {
+                            "startLine": 66,
+                            "startColumn": 6
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "index": 4,
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+                          },
+                          "region": {
+                            "startLine": 67,
+                            "startColumn": 16
+                          }
+                        },
+                        "message": {
+                          "text": "In diese Verzweigung eintreten (Annahme: \"index<0||index>=901\")"
+                        }
+                      },
+                      "kinds": [
+                        "verzweigen"
+                      ],
+                      "importance": "important"
+                    },
+                    {
+                      "index": 5,
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+                          },
+                          "region": {
+                            "startLine": 68,
+                            "startColumn": 11
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "index": 6,
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+                          },
+                          "region": {
+                            "startLine": 74,
+                            "startColumn": 17
+                          }
+                        },
+                        "message": {
+                          "text": "Diese Verzweigung überspringen (Annahme: \"<Verzweigungsbedingung>\" ist false)"
+                        }
+                      },
+                      "kinds": [
+                        "verzweigen"
+                      ],
+                      "importance": "important"
+                    },
+                    {
+                      "index": 7,
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+                          },
+                          "region": {
+                            "startLine": 74,
+                            "startColumn": 6
+                          }
+                        },
+                        "message": {
+                          "text": "\"delta1\" wird verwendet, wurde jedoch möglicherweise nicht initialisiert."
+                        }
+                      },
+                      "kinds": [
+                        "Verwendung"
+                      ],
+                      "importance": "essential"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "suppressions": []
+        },
+        {
+          "ruleId": "C6385",
+          "message": {
+            "text": "Lesen ungültiger Daten von \"data_rle[index]\":  die lesbare Größe beträgt \"4\" Byte, es können jedoch \"6\" Byte gelesen werden."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+                },
+                "region": {
+                  "startLine": 72,
+                  "startColumn": 3,
+                  "endLine": 72,
+                  "endColumn": 65
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?checkColl_RLE@Collision_avoidanve@@SA_NMM@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "codeFlows": [
+            {
+              "threadFlows": [
+                {
+                  "locations": [
+                    {
+                      "index": 0,
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+                          },
+                          "region": {
+                            "startLine": 63,
+                            "startColumn": 7
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "index": 1,
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+                          },
+                          "region": {
+                            "startLine": 64,
+                            "startColumn": 8
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "index": 2,
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+                          },
+                          "region": {
+                            "startLine": 65,
+                            "startColumn": 8
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "index": 3,
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+                          },
+                          "region": {
+                            "startLine": 66,
+                            "startColumn": 6
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "index": 4,
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+                          },
+                          "region": {
+                            "startLine": 67,
+                            "startColumn": 16
+                          }
+                        },
+                        "message": {
+                          "text": "Diese Verzweigung überspringen (Annahme: \"index<0||index>=901\" ist false)"
+                        }
+                      },
+                      "kinds": [
+                        "verzweigen"
+                      ],
+                      "importance": "important"
+                    },
+                    {
+                      "index": 5,
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+                          },
+                          "region": {
+                            "startLine": 71,
+                            "startColumn": 10
+                          }
+                        }
+                      },
+                      "importance": "unimportant"
+                    },
+                    {
+                      "index": 6,
+                      "location": {
+                        "physicalLocation": {
+                          "artifactLocation": {
+                            "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+                          },
+                          "region": {
+                            "startLine": 72,
+                            "startColumn": 10
+                          }
+                        },
+                        "message": {
+                          "text": "Ungültiger Lesevorgang von \"data_rle[index][2]\" (der lesbare Bereich ist 0 bis 1)"
+                        }
+                      },
+                      "kinds": [
+                        "Verwendung"
+                      ],
+                      "importance": "essential"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "suppressions": []
+        },
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "Arithmetischer Überlauf: Wenn Sie den Operator \"-\" für einen 4-Bytewert verwenden und das Ergebnis in einen 8-Bytewert umwandeln, wandeln Sie den Wert in den breiteren Typ um, bevor Sie den Operator \"-\" verwenden, um einen Überlauf zu vermeiden (io.2)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+                },
+                "region": {
+                  "startLine": 66,
+                  "startColumn": 21,
+                  "endLine": 66,
+                  "endColumn": 30
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?checkColl_RLE@Collision_avoidanve@@SA_NMM@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": []
+        },
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "Arithmetischer Überlauf: Wenn Sie den Operator \"-\" für einen 4-Bytewert verwenden und das Ergebnis in einen 8-Bytewert umwandeln, wandeln Sie den Wert in den breiteren Typ um, bevor Sie den Operator \"-\" verwenden, um einen Überlauf zu vermeiden (io.2)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+                },
+                "region": {
+                  "startLine": 71,
+                  "startColumn": 13,
+                  "endLine": 71,
+                  "endColumn": 22
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?checkColl_RLE@Collision_avoidanve@@SA_NMM@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": []
+        },
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "Arithmetischer Überlauf: Wenn Sie den Operator \"-\" für einen 4-Bytewert verwenden und das Ergebnis in einen 8-Bytewert umwandeln, wandeln Sie den Wert in den breiteren Typ um, bevor Sie den Operator \"-\" verwenden, um einen Überlauf zu vermeiden (io.2)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+                },
+                "region": {
+                  "startLine": 72,
+                  "startColumn": 13,
+                  "endLine": 72,
+                  "endColumn": 22
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?checkColl_RLE@Collision_avoidanve@@SA_NMM@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": []
+        },
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "Arithmetischer Überlauf: Wenn Sie den Operator \"-\" für einen 4-Bytewert verwenden und das Ergebnis in einen 8-Bytewert umwandeln, wandeln Sie den Wert in den breiteren Typ um, bevor Sie den Operator \"-\" verwenden, um einen Überlauf zu vermeiden (io.2)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+                },
+                "region": {
+                  "startLine": 97,
+                  "startColumn": 19,
+                  "endLine": 97,
+                  "endColumn": 46
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?init@Collision_avoidanve@@QAEXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": []
+        },
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "Arithmetischer Überlauf: Wenn Sie den Operator \"*\" für einen 4-Bytewert verwenden und das Ergebnis in einen 8-Bytewert umwandeln, wandeln Sie den Wert in den breiteren Typ um, bevor Sie den Operator \"*\" verwenden, um einen Überlauf zu vermeiden (io.2)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+                },
+                "region": {
+                  "startLine": 97,
+                  "startColumn": 19,
+                  "endLine": 97,
+                  "endColumn": 25
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?init@Collision_avoidanve@@QAEXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": []
+        },
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "Arithmetischer Überlauf: Wenn Sie den Operator \"*\" für einen 4-Bytewert verwenden und das Ergebnis in einen 8-Bytewert umwandeln, wandeln Sie den Wert in den breiteren Typ um, bevor Sie den Operator \"*\" verwenden, um einen Überlauf zu vermeiden (io.2)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+                },
+                "region": {
+                  "startLine": 102,
+                  "startColumn": 23,
+                  "endLine": 102,
+                  "endColumn": 34
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?init@Collision_avoidanve@@QAEXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": []
+        },
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "Arithmetischer Überlauf: Wenn Sie den Operator \"*\" für einen 4-Bytewert verwenden und das Ergebnis in einen 8-Bytewert umwandeln, wandeln Sie den Wert in den breiteren Typ um, bevor Sie den Operator \"*\" verwenden, um einen Überlauf zu vermeiden (io.2)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+                },
+                "region": {
+                  "startLine": 103,
+                  "startColumn": 23,
+                  "endLine": 103,
+                  "endColumn": 34
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?init@Collision_avoidanve@@QAEXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": []
+        },
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "Arithmetischer Überlauf: Wenn Sie den Operator \"*\" für einen 4-Bytewert verwenden und das Ergebnis in einen 8-Bytewert umwandeln, wandeln Sie den Wert in den breiteren Typ um, bevor Sie den Operator \"*\" verwenden, um einen Überlauf zu vermeiden (io.2)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+                },
+                "region": {
+                  "startLine": 193,
+                  "startColumn": 25,
+                  "endLine": 193,
+                  "endColumn": 27
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?init@Collision_avoidanve@@QAEXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": []
+        },
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "Arithmetischer Überlauf: Wenn Sie den Operator \"-\" für einen 4-Bytewert verwenden und das Ergebnis in einen 8-Bytewert umwandeln, wandeln Sie den Wert in den breiteren Typ um, bevor Sie den Operator \"-\" verwenden, um einen Überlauf zu vermeiden (io.2)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+                },
+                "region": {
+                  "startLine": 401,
+                  "startColumn": 13,
+                  "endLine": 401,
+                  "endColumn": 20
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?checkPointCircle@Collision_avoidanve@@SAMVPos@@VCollision_Circle@@_NH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": []
+        },
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "Arithmetischer Überlauf: Wenn Sie den Operator \"-\" für einen 4-Bytewert verwenden und das Ergebnis in einen 8-Bytewert umwandeln, wandeln Sie den Wert in den breiteren Typ um, bevor Sie den Operator \"-\" verwenden, um einen Überlauf zu vermeiden (io.2)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+                },
+                "region": {
+                  "startLine": 406,
+                  "startColumn": 18,
+                  "endLine": 406,
+                  "endColumn": 25
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?checkPointCircle@Collision_avoidanve@@SAMVPos@@VCollision_Circle@@_NH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "suppressions": []
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.28.29337.0"
+        }
+      },
+      "invocations": [
+        {
+          "commandLine": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX86\\x86\\c1xx.dll\" -ACf{1F7B090C-16DB-4822-966A-A93D26ED4681} -ACpmspft140.dll -Alint -D_PREFAST_ -D_AST_FE_ -Analyze -zm0x0037B1D0 -il C:\\Users\\kdRupp\\AppData\\Local\\Temp\\_CL_af861de2ast -typedil -f Motion_Interpolator\\CollisionAvoidance.cpp -Ze -D_MSC_EXTENSIONS -Zp8 -Gs -pc \\:/ -D_MSC_VER=1928 -D_MSC_FULL_VER=192829337 -D_MSC_BUILD=0 -D_WIN32 -D_M_IX86=600 -D_M_IX86_FP=2 -GR -D_CPPRTTI -nologo -W 3 -diagnostics:column -D_GUARDOVERFLOW_CRT_ALLOCATORS=1 -Ot -DCODE_ANALYSIS -DWIN32 -D_DEBUG -D_CONSOLE -D_UNICODE -DUNICODE -EHs -D_CPPUNWIND -EHc -D__MSVC_RUNTIME_CHECKS -RTCs -RTCu -MDd -D_DEBUG -D_MT -D_DLL -GS -D_M_FP_PRECISE -permissive- -Zc:wchar_t -Zc:forScope -FoDebug\\CollisionAvoidance.obj -FdDebug\\vc142.pdb -Gd -analyze:projectdirectory C:\\Users\\kdRupp\\source\\repos\\Motion_Interpolator -analyze:rulesetdirectory ;C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\Team Tools\\Static Analysis Tools\\\\Rule Sets; -analyze:ruleset C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\Team Tools\\Static Analysis Tools\\Rule Sets\\NativeRecommendedRules.ruleset -analyze:quiet -analyze:plugin C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.28.29333\\bin\\HostX86\\x86\\EspXEngine.dll -FC -errorreport:prompt -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.28.29333\\include -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.28.29333\\atlmfc\\include -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Auxiliary\\VS\\include -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.18362.0\\ucrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.18362.0\\um -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.18362.0\\shared -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.18362.0\\winrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.18362.0\\cppwinrt -I C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Include\\um",
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/motion.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kdrupp/source/repos/motion_interpolator/motion_interpolator/axis.h"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kdrupp/source/repos/motion_interpolator/motion_interpolator/maintargets.h"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kdrupp/source/repos/motion_interpolator/motion_interpolator/motion.h"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/Kinematik.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kdrupp/source/repos/motion_interpolator/motion_interpolator/kinematik.h"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.h"
+          },
+          "roles": [
+            "resultFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/kdRupp/source/repos/Motion_Interpolator/Motion_Interpolator/CollisionAvoidance.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kdrupp/source/repos/motion_interpolator/motion_interpolator/collisiondata.h"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kdrupp/source/repos/motion_interpolator/motion_interpolator/collisiondata_rle.h"
+          },
+          "roles": [
+            "responseFile"
+          ]
+        }
+      ]
+    }
+  ]
+}

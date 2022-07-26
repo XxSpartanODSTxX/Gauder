@@ -1,0 +1,62 @@
+
+> 60C2:01
+	0x01	1	0000 0001	(Interpolation time period - Interpolation time period value)
+> 60C2:02
+	0xFD	-3	1111 1101	(Interpolation time period - Interpolation time index)
+> 
+
+Benutzung
+Die Steuerung folgt einem linear interpolierten Pfad zwischen der aktuellen und der vorgegebenen Zielposition. Die (nächste) Zielposition muss in das Datensatz 60C1h:01h geschrieben werden.
+
+
+
+In der derzeitigen Implementation wird nur
+
+lineare Interpolation
+und eine Zielposition
+unterstützt.
+
+Setup
+Das folgende Setup ist nötig:
+
+60C2h:01h: Zeit zwischen zwei übergebenen Zielpositionen in ms.
+60C4h:06h: dieses Objekt ist auf "1" zu setzen um die Zielposition im Objekt 60C1h:01h modifizieren zu dürfen.
+Um den Motor drehen zu können, ist die Power state machine auf den Status Operation enabled zu setzen (siehe CiA 402 Power State Machine)
+Operation
+Nach dem Setup ist die Aufgabe der übergerodeten Steuerung, die Zielpositionen rechtzeitig in das Objekt 60C1h:01h zu schreiben.
+
+H Roberto I did some Tests with the CAN.
+You get all this PDO Messages. 
+Normally you get response within 4ms. If you have to wait more then 10ms we have to analyse that. 
+Going In and out depends on the actual Value you are setting. 
+I added again this breaks and The Flag for a Valid Statement.  So one after the other is processed. We have to think about interrupting statements. If You stop it should stop, If you are moving out and try to move In: It should stop  and then start moving in.
+What is about our Log and the Json Interface?
+I will also Prepare a CAN Interface on ID 0x610.
+With command and Parameter as a service data object.
+
+  if (c == 'O') 0x4f {//Motion Out
+  if (c == 'I') 0x49 {//Motion In
+  if (c == 'M') 0x4d { Serial.println("Main Program");
+  if (c == 'P') 0x50 {      Serial.println("Turn On");
+  if (c == 'S') 0x53 {      Serial.println("Turn Off Motor");
+  if (c == 'R') 0x52 {      Serial.println("Reset Motor Values");
+  ‘D’  0x44 Stop Motion (without Switch off Drives)
+  ‘C’  0x43 Continue Motion (without Switch off Drives)
+  ‘V’  0x56 Set a parameter or mode, for example Collision On or Off, Speed 0.3rad/s, Current-Limit  0.5A, Log on - off
+
+  ‘T’ 0x54    Move to Target  (With number of special Target)
+  ‘Q’ 0x51   Store Target  or Parameter (With number of special Target to store)
+  ‘H’ 0x48   Make Homing to set all values to Zero (to be sure use Parameter like 7246 as a key
+
+
+
+States: 
+  Drives      ON off		DRIVEBit      0x0001
+  Collisiton  true false	COLLISIONBit  0x0008
+  Do Job					ACTIVBit      0x0010
+
+  Referenced  true false	REFERENCEBit  0x0100
+  Position	  In out		POSITIONBit   0x0200
+
+ 
+  

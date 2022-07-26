@@ -1,0 +1,87 @@
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\GauderApp\bin\Debug\GauderApp.exe.config
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\GauderApp\bin\Debug\GauderApp.exe
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\GauderApp\bin\Debug\GauderApp.pdb
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\GauderApp\bin\Debug\Newtonsoft.Json.dll
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\GauderApp\bin\Debug\Newtonsoft.Json.xml
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\GauderApp\obj\Debug\DARC Monitor.csprojAssemblyReference.cache
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\GauderApp\obj\Debug\GauderApp.FormDarc1000.resources
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\GauderApp\obj\Debug\GauderApp.Properties.Resources.resources
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\GauderApp\obj\Debug\GauderApp.ScriptControl.resources
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\GauderApp\obj\Debug\DARC Monitor.csproj.GenerateResource.cache
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\GauderApp\obj\Debug\DARC Monitor.csproj.CoreCompileInputs.cache
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\GauderApp\obj\Debug\DARC Monitor.csproj.CopyComplete
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\GauderApp\obj\Debug\GauderApp.exe
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\GauderApp\obj\Debug\GauderApp.pdb
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\GauderApp\obj\Debug\GauderApp.GrahControl.resources
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\bin\Debug\GauderApp.exe.config
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\bin\Debug\GauderApp.exe
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\bin\Debug\GauderApp.pdb
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\bin\Debug\Newtonsoft.Json.dll
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\bin\Debug\Newtonsoft.Json.xml
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\obj\Debug\DARC Monitor.csprojAssemblyReference.cache
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\obj\Debug\GauderApp.FormDarc1000.resources
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\obj\Debug\GauderApp.GrahControl.resources
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\obj\Debug\GauderApp.Properties.Resources.resources
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\obj\Debug\GauderApp.ScriptControl.resources
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\obj\Debug\DARC Monitor.csproj.GenerateResource.cache
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\obj\Debug\DARC Monitor.csproj.CoreCompileInputs.cache
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\obj\Debug\DARC Monitor.csproj.CopyComplete
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\obj\Debug\GauderApp.exe
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\obj\Debug\GauderApp.pdb
+E:\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\bin\Debug\GauderApp.exe.config
+E:\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\bin\Debug\GauderApp.exe
+E:\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\bin\Debug\GauderApp.pdb
+E:\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\bin\Debug\Newtonsoft.Json.dll
+E:\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\bin\Debug\Newtonsoft.Json.xml
+E:\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\obj\Debug\DARC Monitor.csprojAssemblyReference.cache
+E:\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\obj\Debug\GauderApp.FormDarc1000.resources
+E:\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\obj\Debug\GauderApp.GrahControl.resources
+E:\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\obj\Debug\GauderApp.Properties.Resources.resources
+E:\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\obj\Debug\GauderApp.ScriptControl.resources
+E:\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\obj\Debug\DARC Monitor.csproj.GenerateResource.cache
+E:\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\obj\Debug\DARC Monitor.csproj.CoreCompileInputs.cache
+E:\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\obj\Debug\DARC Monitor.csproj.CopyComplete
+E:\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\obj\Debug\GauderApp.exe
+E:\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\obj\Debug\GauderApp.pdb
+C:\Users\rupp\Documents\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\bin\Debug\GauderApp.exe.config
+C:\Users\rupp\Documents\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\bin\Debug\GauderApp.exe
+C:\Users\rupp\Documents\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\bin\Debug\GauderApp.pdb
+C:\Users\rupp\Documents\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rupp\Documents\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rupp\Documents\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\obj\Debug\DARC Monitor.csprojAssemblyReference.cache
+C:\Users\rupp\Documents\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\obj\Debug\GauderApp.Properties.Resources.resources
+C:\Users\rupp\Documents\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\obj\Debug\DARC Monitor.csproj.GenerateResource.cache
+C:\Users\rupp\Documents\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\obj\Debug\DARC Monitor.csproj.CoreCompileInputs.cache
+C:\Users\rupp\Documents\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\obj\Debug\DARC Monitor.csproj.CopyComplete
+C:\Users\rupp\Documents\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\obj\Debug\GauderApp.exe
+C:\Users\rupp\Documents\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\obj\Debug\GauderApp.pdb
+C:\Users\rupp\Documents\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\obj\Debug\DarcMonitor.CANControl.resources
+C:\Users\rupp\Documents\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\obj\Debug\DarcMonitor.CommunicationControl.resources
+C:\Users\rupp\Documents\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\obj\Debug\DarcMonitor.ServiceControl.resources
+C:\Users\rupp\Documents\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\obj\Debug\DarcMonitor.TargetControl.resources
+C:\Users\rupp\Documents\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\obj\Debug\DarcMonitor.FormDarc1000.resources
+C:\Users\rupp\Documents\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\obj\Debug\DarcMonitor.GrahControl.resources
+C:\Users\rupp\Documents\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\obj\Debug\DarcMonitor.ScriptControl.resources
+C:\Users\rupp\Documents\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\bin\Debug\PeakCANOpen_Lib.dll
+C:\Users\rupp\Documents\Kooperative Forschung\Gauder Akustik\source\repos\DARC Monitor\bin\Debug\PeakCANOpen_Lib.pdb
+C:\Users\lrmtz\OneDrive\Documentos\Gauder Akustik\08.06.2021_1.0_Beta\DARC Monitor\bin\Debug\GauderApp.exe.config
+C:\Users\lrmtz\OneDrive\Documentos\Gauder Akustik\08.06.2021_1.0_Beta\DARC Monitor\bin\Debug\GauderApp.exe
+C:\Users\lrmtz\OneDrive\Documentos\Gauder Akustik\08.06.2021_1.0_Beta\DARC Monitor\bin\Debug\GauderApp.pdb
+C:\Users\lrmtz\OneDrive\Documentos\Gauder Akustik\08.06.2021_1.0_Beta\DARC Monitor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lrmtz\OneDrive\Documentos\Gauder Akustik\08.06.2021_1.0_Beta\DARC Monitor\bin\Debug\PeakCANOpen_Lib.dll
+C:\Users\lrmtz\OneDrive\Documentos\Gauder Akustik\08.06.2021_1.0_Beta\DARC Monitor\bin\Debug\PeakCANOpen_Lib.pdb
+C:\Users\lrmtz\OneDrive\Documentos\Gauder Akustik\08.06.2021_1.0_Beta\DARC Monitor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lrmtz\OneDrive\Documentos\Gauder Akustik\08.06.2021_1.0_Beta\DARC Monitor\obj\Debug\DARC Monitor.csprojAssemblyReference.cache
+C:\Users\lrmtz\OneDrive\Documentos\Gauder Akustik\08.06.2021_1.0_Beta\DARC Monitor\obj\Debug\DarcMonitor.CANControl.resources
+C:\Users\lrmtz\OneDrive\Documentos\Gauder Akustik\08.06.2021_1.0_Beta\DARC Monitor\obj\Debug\DarcMonitor.CommunicationControl.resources
+C:\Users\lrmtz\OneDrive\Documentos\Gauder Akustik\08.06.2021_1.0_Beta\DARC Monitor\obj\Debug\DarcMonitor.FormDarc1000.resources
+C:\Users\lrmtz\OneDrive\Documentos\Gauder Akustik\08.06.2021_1.0_Beta\DARC Monitor\obj\Debug\DarcMonitor.GrahControl.resources
+C:\Users\lrmtz\OneDrive\Documentos\Gauder Akustik\08.06.2021_1.0_Beta\DARC Monitor\obj\Debug\GauderApp.Properties.Resources.resources
+C:\Users\lrmtz\OneDrive\Documentos\Gauder Akustik\08.06.2021_1.0_Beta\DARC Monitor\obj\Debug\DarcMonitor.ScriptControl.resources
+C:\Users\lrmtz\OneDrive\Documentos\Gauder Akustik\08.06.2021_1.0_Beta\DARC Monitor\obj\Debug\DarcMonitor.ServiceControl.resources
+C:\Users\lrmtz\OneDrive\Documentos\Gauder Akustik\08.06.2021_1.0_Beta\DARC Monitor\obj\Debug\DarcMonitor.TargetControl.resources
+C:\Users\lrmtz\OneDrive\Documentos\Gauder Akustik\08.06.2021_1.0_Beta\DARC Monitor\obj\Debug\DARC Monitor.csproj.GenerateResource.cache
+C:\Users\lrmtz\OneDrive\Documentos\Gauder Akustik\08.06.2021_1.0_Beta\DARC Monitor\obj\Debug\DARC Monitor.csproj.CoreCompileInputs.cache
+C:\Users\lrmtz\OneDrive\Documentos\Gauder Akustik\08.06.2021_1.0_Beta\DARC Monitor\obj\Debug\DARC Monitor.csproj.CopyComplete
+C:\Users\lrmtz\OneDrive\Documentos\Gauder Akustik\08.06.2021_1.0_Beta\DARC Monitor\obj\Debug\GauderApp.exe
+C:\Users\lrmtz\OneDrive\Documentos\Gauder Akustik\08.06.2021_1.0_Beta\DARC Monitor\obj\Debug\GauderApp.pdb

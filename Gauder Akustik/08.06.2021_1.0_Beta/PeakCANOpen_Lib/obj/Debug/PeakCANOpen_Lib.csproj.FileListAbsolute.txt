@@ -1,0 +1,326 @@
+L:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csprojResolveAssemblyReference.cache
+L:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.CoreCompileInputs.cache
+L:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\bin\Debug\PeakCANOpen_Lib.dll
+L:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\bin\Debug\PeakCANOpen_Lib.pdb
+L:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\bin\Debug\CanOpen.dll
+L:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\bin\Debug\CanOpen.pdb
+L:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.dll
+L:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.pdb
+L:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.CANOpenControl.resources
+L:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.GenerateResource.Cache
+L:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\bin\Debug\EcoTalk_Lib.dll
+L:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\bin\Debug\Microsoft.Scripting.dll
+L:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\bin\Debug\IronPython.dll
+L:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\bin\Debug\Microsoft.Dynamic.dll
+L:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\bin\Debug\Microsoft.Scripting.Metadata.dll
+L:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\bin\Debug\EcoTalk_Lib.pdb
+L:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\bin\Debug\Microsoft.Scripting.xml
+L:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\bin\Debug\IronPython.xml
+L:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\bin\Debug\Microsoft.Dynamic.xml
+L:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\bin\Debug\Microsoft.Scripting.Metadata.xml
+G:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\bin\Debug\PeakCANOpen_Lib.dll
+G:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\bin\Debug\PeakCANOpen_Lib.pdb
+G:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\bin\Debug\CanOpen.dll
+G:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\bin\Debug\EcoTalk_Lib.dll
+G:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\bin\Debug\Microsoft.Scripting.dll
+G:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\bin\Debug\IronPython.dll
+G:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\bin\Debug\Microsoft.Dynamic.dll
+G:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\bin\Debug\Microsoft.Scripting.Metadata.dll
+G:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\bin\Debug\CanOpen.pdb
+G:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\bin\Debug\EcoTalk_Lib.pdb
+G:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\bin\Debug\Microsoft.Scripting.xml
+G:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\bin\Debug\IronPython.xml
+G:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\bin\Debug\Microsoft.Dynamic.xml
+G:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\bin\Debug\Microsoft.Scripting.Metadata.xml
+G:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csprojResolveAssemblyReference.cache
+G:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.CANOpenControl.resources
+G:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.GenerateResource.Cache
+G:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.CoreCompileInputs.cache
+G:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.dll
+G:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.pdb
+G:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.SettingsPanel.resources
+L:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.SettingsPanel.resources
+L:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\bin\Debug\DriveLib.dll
+L:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\bin\Debug\DriveLib.pdb
+G:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\bin\Debug\DriveLib.dll
+G:\ACS Automatic Coffee suplay\CANOpen\PeakCANOpen_Lib\bin\Debug\DriveLib.pdb
+D:\ACS\ACSApp\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csprojResolveAssemblyReference.cache
+D:\ACS\ACSApp\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.CANOpenControl.resources
+D:\ACS\ACSApp\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.SettingsPanel.resources
+D:\ACS\ACSApp\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.GenerateResource.Cache
+D:\ACS\ACSApp\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.CoreCompileInputs.cache
+D:\ACS\ACSApp\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.dll
+D:\ACS\ACSApp\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.pdb
+D:\ACS\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\PeakCANOpen_Lib.dll
+D:\ACS\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\PeakCANOpen_Lib.pdb
+D:\ACS\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\CanOpen.dll
+D:\ACS\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\DriveLib.dll
+D:\ACS\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\EcoTalk_Lib.dll
+D:\ACS\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\Microsoft.Scripting.dll
+D:\ACS\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\IronPython.dll
+D:\ACS\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\Microsoft.Dynamic.dll
+D:\ACS\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\ACS\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\DriveLib.pdb
+D:\ACS\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\EcoTalk_Lib.pdb
+D:\ACS\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\CanOpen.pdb
+D:\ACS\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\Microsoft.Scripting.xml
+D:\ACS\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\IronPython.xml
+D:\ACS\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\Microsoft.Dynamic.xml
+D:\ACS\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\Microsoft.Scripting.Metadata.xml
+G:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\PeakCANOpen_Lib.dll
+G:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\PeakCANOpen_Lib.pdb
+G:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\CanOpen.dll
+G:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\DriveLib.dll
+G:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\EcoTalk_Lib.dll
+G:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\DriveLib.pdb
+G:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\EcoTalk_Lib.pdb
+G:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\CanOpen.pdb
+G:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csprojResolveAssemblyReference.cache
+G:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.CANOpenControl.resources
+G:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.SettingsPanel.resources
+G:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.GenerateResource.Cache
+G:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.CoreCompileInputs.cache
+G:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.dll
+G:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.pdb
+L:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\PeakCANOpen_Lib.dll
+L:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\PeakCANOpen_Lib.pdb
+L:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\CanOpen.dll
+L:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\DriveLib.dll
+L:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\EcoTalk_Lib.dll
+L:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\DriveLib.pdb
+L:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\EcoTalk_Lib.pdb
+L:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\CanOpen.pdb
+L:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csprojResolveAssemblyReference.cache
+L:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.CANOpenControl.resources
+L:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.SettingsPanel.resources
+L:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.GenerateResource.Cache
+L:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.CoreCompileInputs.cache
+L:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.dll
+L:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.pdb
+L:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\Robot_Lib.dll
+L:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\Robot_Lib.pdb
+G:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\Robot_Lib.dll
+G:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\Robot_Lib.pdb
+D:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\PeakCANOpen_Lib.dll
+D:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\PeakCANOpen_Lib.pdb
+D:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\CanOpen.dll
+D:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\DriveLib.dll
+D:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\EcoTalk_Lib.dll
+D:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\Robot_Lib.dll
+D:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\DriveLib.pdb
+D:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\EcoTalk_Lib.pdb
+D:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\Robot_Lib.pdb
+D:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\bin\Debug\CanOpen.pdb
+D:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csprojResolveAssemblyReference.cache
+D:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.CANOpenControl.resources
+D:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.SettingsPanel.resources
+D:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.GenerateResource.cache
+D:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.CoreCompileInputs.cache
+D:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.CopyComplete
+D:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.dll
+D:\ACS Automatic Coffee suplay\ACSApp\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.pdb
+L:\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\PeakCANOpen_Lib.dll
+L:\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\PeakCANOpen_Lib.pdb
+L:\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\CanOpen.dll
+L:\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\DriveLib.dll
+L:\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\EcoTalk_Lib.dll
+L:\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\Robot_Lib.dll
+L:\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\DriveLib.pdb
+L:\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\EcoTalk_Lib.pdb
+L:\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\Robot_Lib.pdb
+L:\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\CanOpen.pdb
+L:\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.CANOpenControl.resources
+L:\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.GenerateResource.Cache
+L:\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.CoreCompileInputs.cache
+L:\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.dll
+L:\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.pdb
+L:\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\Configuration.resx
+L:\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\Configuration.cs
+L:\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\Configuration.Designer.cs
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\Configuration.resx
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\Configuration.cs
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\Configuration.Designer.cs
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\PeakCANOpen_Lib.dll
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\PeakCANOpen_Lib.pdb
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\CanOpen.dll
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\DriveLib.dll
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\EcoTalk_Lib.dll
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\Robot_Lib.dll
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\DriveLib.pdb
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\EcoTalk_Lib.pdb
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\Robot_Lib.pdb
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\CanOpen.pdb
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.CANOpenControl.resources
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.GenerateResource.Cache
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.CoreCompileInputs.cache
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.dll
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.pdb
+C:\Users\kdrup\Desktop\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\Configuration.resx
+C:\Users\kdrup\Desktop\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\Configuration.cs
+C:\Users\kdrup\Desktop\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\Configuration.Designer.cs
+C:\Users\kdrup\Desktop\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\PeakCANOpen_Lib.dll
+C:\Users\kdrup\Desktop\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\PeakCANOpen_Lib.pdb
+C:\Users\kdrup\Desktop\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\CanOpen.dll
+C:\Users\kdrup\Desktop\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\DriveLib.dll
+C:\Users\kdrup\Desktop\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\EcoTalk_Lib.dll
+C:\Users\kdrup\Desktop\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\Robot_Lib.dll
+C:\Users\kdrup\Desktop\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\DriveLib.pdb
+C:\Users\kdrup\Desktop\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\EcoTalk_Lib.pdb
+C:\Users\kdrup\Desktop\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\Robot_Lib.pdb
+C:\Users\kdrup\Desktop\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\CanOpen.pdb
+C:\Users\kdrup\Desktop\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csprojAssemblyReference.cache
+C:\Users\kdrup\Desktop\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.CANOpenControl.resources
+C:\Users\kdrup\Desktop\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.SettingsPanel.resources
+C:\Users\kdrup\Desktop\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.GenerateResource.cache
+C:\Users\kdrup\Desktop\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.CoreCompileInputs.cache
+C:\Users\kdrup\Desktop\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.CopyComplete
+C:\Users\kdrup\Desktop\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.dll
+C:\Users\kdrup\Desktop\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.pdb
+R:\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\Configuration.resx
+R:\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\Configuration.cs
+R:\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\Configuration.Designer.cs
+R:\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\PeakCANOpen_Lib.dll
+R:\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\PeakCANOpen_Lib.pdb
+R:\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\CanOpen.dll
+R:\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\DriveLib.dll
+R:\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\EcoTalk_Lib.dll
+R:\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\Robot_Lib.dll
+R:\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\DriveLib.pdb
+R:\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\EcoTalk_Lib.pdb
+R:\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\Robot_Lib.pdb
+R:\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\CanOpen.pdb
+R:\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csprojAssemblyReference.cache
+R:\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.CANOpenControl.resources
+R:\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.SettingsPanel.resources
+R:\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.GenerateResource.cache
+R:\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.CoreCompileInputs.cache
+R:\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.CopyComplete
+R:\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.dll
+R:\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.pdb
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csprojAssemblyReference.cache
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.CopyComplete
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\EcoTalkProgramm.dll
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\EcoTalkProgramm.pdb
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\GeneralMatrix.dll
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\nunit.framework.dll
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\GeneralMatrix.pdb
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\MessageHandler.dll
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\MessageHandler.pdb
+L:\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\EcoTalkProgramm.dll
+L:\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\GeneralMatrix.dll
+L:\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\MessageHandler.dll
+L:\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\nunit.framework.dll
+L:\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\EcoTalkProgramm.pdb
+L:\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\GeneralMatrix.pdb
+L:\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\MessageHandler.pdb
+L:\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csprojAssemblyReference.cache
+L:\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.CopyComplete
+C:\Users\User\Documents\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\Configuration.resx
+C:\Users\User\Documents\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\Configuration.cs
+C:\Users\User\Documents\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\Configuration.Designer.cs
+C:\Users\User\Documents\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\PeakCANOpen_Lib.dll
+C:\Users\User\Documents\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\PeakCANOpen_Lib.pdb
+C:\Users\User\Documents\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\CanOpen.dll
+C:\Users\User\Documents\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\DriveLib.dll
+C:\Users\User\Documents\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\EcoTalkProgramm.dll
+C:\Users\User\Documents\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\EcoTalk_Lib.dll
+C:\Users\User\Documents\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\GeneralMatrix.dll
+C:\Users\User\Documents\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\MessageHandler.dll
+C:\Users\User\Documents\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\Robot_Lib.dll
+C:\Users\User\Documents\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\nunit.framework.dll
+C:\Users\User\Documents\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\DriveLib.pdb
+C:\Users\User\Documents\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\EcoTalkProgramm.pdb
+C:\Users\User\Documents\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\EcoTalk_Lib.pdb
+C:\Users\User\Documents\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\GeneralMatrix.pdb
+C:\Users\User\Documents\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\MessageHandler.pdb
+C:\Users\User\Documents\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\Robot_Lib.pdb
+C:\Users\User\Documents\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\bin\Debug\CanOpen.pdb
+C:\Users\User\Documents\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csprojAssemblyReference.cache
+C:\Users\User\Documents\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.CANOpenControl.resources
+C:\Users\User\Documents\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.GenerateResource.cache
+C:\Users\User\Documents\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.CopyComplete
+C:\Users\User\Documents\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.dll
+C:\Users\User\Documents\MPE-Projekte\Bibliotheken\CANOpen\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.pdb
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\ACS Automatic Coffee suplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\Configuration.resx
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\ACS Automatic Coffee suplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\Configuration.cs
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\ACS Automatic Coffee suplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\Configuration.Designer.cs
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\ACS Automatic Coffee suplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\PeakCANOpen_Lib.dll
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\ACS Automatic Coffee suplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\PeakCANOpen_Lib.pdb
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\ACS Automatic Coffee suplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\DriveLib.dll
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\ACS Automatic Coffee suplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\EcoTalkProgramm.dll
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\ACS Automatic Coffee suplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\EcoTalk_Lib.dll
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\ACS Automatic Coffee suplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\GeneralMatrix.dll
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\ACS Automatic Coffee suplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\MessageHandler.dll
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\ACS Automatic Coffee suplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\Robot_Lib.dll
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\ACS Automatic Coffee suplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\nunit.framework.dll
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\ACS Automatic Coffee suplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\DriveLib.pdb
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\ACS Automatic Coffee suplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\EcoTalkProgramm.pdb
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\ACS Automatic Coffee suplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\EcoTalk_Lib.pdb
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\ACS Automatic Coffee suplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\GeneralMatrix.pdb
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\ACS Automatic Coffee suplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\MessageHandler.pdb
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\ACS Automatic Coffee suplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\Robot_Lib.pdb
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\ACS Automatic Coffee suplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csprojAssemblyReference.cache
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\ACS Automatic Coffee suplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.CANOpenControl.resources
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\ACS Automatic Coffee suplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.GenerateResource.cache
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\ACS Automatic Coffee suplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.CoreCompileInputs.cache
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\ACS Automatic Coffee suplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.CopyComplete
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\ACS Automatic Coffee suplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.dll
+D:\Users\Klaus-Dieter\Documents\DHBW\MPE-Projekte\ACS Automatic Coffee suplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.pdb
+G:\MPE-Projekte\ACS Automatic Coffee supplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\Configuration.resx
+G:\MPE-Projekte\ACS Automatic Coffee supplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\Configuration.cs
+G:\MPE-Projekte\ACS Automatic Coffee supplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\Configuration.Designer.cs
+G:\MPE-Projekte\ACS Automatic Coffee supplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\PeakCANOpen_Lib.dll
+G:\MPE-Projekte\ACS Automatic Coffee supplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\PeakCANOpen_Lib.pdb
+G:\MPE-Projekte\ACS Automatic Coffee supplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\DriveLib.dll
+G:\MPE-Projekte\ACS Automatic Coffee supplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\EcoTalkProgramm.dll
+G:\MPE-Projekte\ACS Automatic Coffee supplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\EcoTalk_Lib.dll
+G:\MPE-Projekte\ACS Automatic Coffee supplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\GeneralMatrix.dll
+G:\MPE-Projekte\ACS Automatic Coffee supplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\MessageHandler.dll
+G:\MPE-Projekte\ACS Automatic Coffee supplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\Robot_Lib.dll
+G:\MPE-Projekte\ACS Automatic Coffee supplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\nunit.framework.dll
+G:\MPE-Projekte\ACS Automatic Coffee supplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\DriveLib.pdb
+G:\MPE-Projekte\ACS Automatic Coffee supplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\EcoTalkProgramm.pdb
+G:\MPE-Projekte\ACS Automatic Coffee supplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\EcoTalk_Lib.pdb
+G:\MPE-Projekte\ACS Automatic Coffee supplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\GeneralMatrix.pdb
+G:\MPE-Projekte\ACS Automatic Coffee supplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\MessageHandler.pdb
+G:\MPE-Projekte\ACS Automatic Coffee supplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\Robot_Lib.pdb
+G:\MPE-Projekte\ACS Automatic Coffee supplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csprojResolveAssemblyReference.cache
+G:\MPE-Projekte\ACS Automatic Coffee supplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.CANOpenControl.resources
+G:\MPE-Projekte\ACS Automatic Coffee supplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.GenerateResource.Cache
+G:\MPE-Projekte\ACS Automatic Coffee supplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.CoreCompileInputs.cache
+G:\MPE-Projekte\ACS Automatic Coffee supplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.dll
+G:\MPE-Projekte\ACS Automatic Coffee supplay\ACS neu\Bibliotheken\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.pdb
+R:\Users\kdRupp\Documents\DHBW\MPE-Projekte\Projekte\ACS Automatic Coffee supply\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\Configuration.resx
+R:\Users\kdRupp\Documents\DHBW\MPE-Projekte\Projekte\ACS Automatic Coffee supply\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\Configuration.cs
+R:\Users\kdRupp\Documents\DHBW\MPE-Projekte\Projekte\ACS Automatic Coffee supply\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\Configuration.Designer.cs
+R:\Users\kdRupp\Documents\DHBW\MPE-Projekte\Projekte\ACS Automatic Coffee supply\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\PeakCANOpen_Lib.dll
+R:\Users\kdRupp\Documents\DHBW\MPE-Projekte\Projekte\ACS Automatic Coffee supply\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\PeakCANOpen_Lib.pdb
+R:\Users\kdRupp\Documents\DHBW\MPE-Projekte\Projekte\ACS Automatic Coffee supply\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\DriveLib.dll
+R:\Users\kdRupp\Documents\DHBW\MPE-Projekte\Projekte\ACS Automatic Coffee supply\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\EcoTalkProgramm.dll
+R:\Users\kdRupp\Documents\DHBW\MPE-Projekte\Projekte\ACS Automatic Coffee supply\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\EcoTalk_Lib.dll
+R:\Users\kdRupp\Documents\DHBW\MPE-Projekte\Projekte\ACS Automatic Coffee supply\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\GeneralMatrix.dll
+R:\Users\kdRupp\Documents\DHBW\MPE-Projekte\Projekte\ACS Automatic Coffee supply\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\MessageHandler.dll
+R:\Users\kdRupp\Documents\DHBW\MPE-Projekte\Projekte\ACS Automatic Coffee supply\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\Robot_Lib.dll
+R:\Users\kdRupp\Documents\DHBW\MPE-Projekte\Projekte\ACS Automatic Coffee supply\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\nunit.framework.dll
+R:\Users\kdRupp\Documents\DHBW\MPE-Projekte\Projekte\ACS Automatic Coffee supply\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\DriveLib.pdb
+R:\Users\kdRupp\Documents\DHBW\MPE-Projekte\Projekte\ACS Automatic Coffee supply\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\EcoTalkProgramm.pdb
+R:\Users\kdRupp\Documents\DHBW\MPE-Projekte\Projekte\ACS Automatic Coffee supply\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\EcoTalk_Lib.pdb
+R:\Users\kdRupp\Documents\DHBW\MPE-Projekte\Projekte\ACS Automatic Coffee supply\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\GeneralMatrix.pdb
+R:\Users\kdRupp\Documents\DHBW\MPE-Projekte\Projekte\ACS Automatic Coffee supply\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\MessageHandler.pdb
+R:\Users\kdRupp\Documents\DHBW\MPE-Projekte\Projekte\ACS Automatic Coffee supply\ACS neu\Bibliotheken\PeakCANOpen_Lib\bin\Debug\Robot_Lib.pdb
+R:\Users\kdRupp\Documents\DHBW\MPE-Projekte\Projekte\ACS Automatic Coffee supply\ACS neu\Bibliotheken\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csprojAssemblyReference.cache
+R:\Users\kdRupp\Documents\DHBW\MPE-Projekte\Projekte\ACS Automatic Coffee supply\ACS neu\Bibliotheken\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.CANOpenControl.resources
+R:\Users\kdRupp\Documents\DHBW\MPE-Projekte\Projekte\ACS Automatic Coffee supply\ACS neu\Bibliotheken\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.GenerateResource.cache
+R:\Users\kdRupp\Documents\DHBW\MPE-Projekte\Projekte\ACS Automatic Coffee supply\ACS neu\Bibliotheken\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.CoreCompileInputs.cache
+R:\Users\kdRupp\Documents\DHBW\MPE-Projekte\Projekte\ACS Automatic Coffee supply\ACS neu\Bibliotheken\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.CopyComplete
+R:\Users\kdRupp\Documents\DHBW\MPE-Projekte\Projekte\ACS Automatic Coffee supply\ACS neu\Bibliotheken\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.dll
+R:\Users\kdRupp\Documents\DHBW\MPE-Projekte\Projekte\ACS Automatic Coffee supply\ACS neu\Bibliotheken\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.pdb
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\PeakCANOpen_Lib\bin\Debug\PeakCANOpen_Lib.dll
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\PeakCANOpen_Lib\bin\Debug\PeakCANOpen_Lib.pdb
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csprojAssemblyReference.cache
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.CANOpenControl.resources
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.GenerateResource.cache
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.csproj.CoreCompileInputs.cache
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.dll
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\PeakCANOpen_Lib\obj\Debug\PeakCANOpen_Lib.pdb

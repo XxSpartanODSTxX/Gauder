@@ -1,0 +1,4 @@
+﻿  SClient.cpp
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\SocketClient\SClient.cpp(105): warning C4715: "CloseSocket": Nicht alle Codepfade geben einen Wert zurück.
+R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\SocketClient\SClient.cpp(87): warning C4715: "StartClient": Nicht alle Codepfade geben einen Wert zurück.
+  SocketClient.vcxproj -> R:\Users\kdRupp\Documents\DHBW\Kooperative Forschung\Gauder Akustik\source\repos\Motion_Interpolator\Debug\SocketClient.exe

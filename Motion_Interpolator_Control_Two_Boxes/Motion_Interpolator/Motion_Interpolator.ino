@@ -24,7 +24,7 @@
 #include "axis.h"
 #include "motion.h"
 #include "CollisionAvoidance.h"
-#include "kinematik.h"
+#include "Kinematik.h"
 
 //On Windows Computer  Teensy will be undefined
 #define TEENSY
